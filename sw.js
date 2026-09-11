@@ -2,7 +2,7 @@
    앱 셸(껍데기)을 캐싱해 오프라인에서도 실행되도록 하는 기본 골격입니다.
    실제 배포 시 CACHE_NAME 버전을 올리면 캐시가 자동 갱신됩니다. */
 
-var CACHE_NAME = 'voca2027-shell-v1';
+var CACHE_NAME = 'voca2027-app2-shell-v1';
 var SHELL_FILES = [
   './',
   './index.html',
